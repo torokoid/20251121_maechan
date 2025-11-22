@@ -166,7 +166,7 @@ p.note { display: none; }
 
 <div class="media-container">
 
-<h2><span class="yellow">19,Nov,2025 庭でとれたパッションフルーツをいただきます</span></h2>
+<h2><span class="yellow">20,Nov,2025 庭でとれたパッションフルーツをいただきます</span></h2>
 <a href="20251121_001.JPG" target="_blank"><img src="20251121_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">酸っぱさに慣れてないと、かなりビックリする味</span></h2>
